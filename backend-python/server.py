@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/api/disclosed-attributes', defaults={'path': ''}, methods=['GET'])
 @app.route('/api/disclosed-attributes/<path:path>', methods=['GET'])
 def disclosed_attributes(path):
-    api_key = '27ff4d0ceb03b0cd02a4b4d6fe4fe6436791223be38823bc97b8319a5991c769'
+    api_key = '1cb1002b81174905e31a71f53423313dddeb67bc0c8c51a8e7b08e9e1b73177d'
     
     try:
         # Construct the target URL
