@@ -12,8 +12,8 @@
       </div> -->
       <div>
         <WalletConnectButton
-          client-id="nlw_e1a0c593aa29844c8ac202cd96fb048d"
-          api-key="1cb1002b81174905e31a71f53423313dddeb67bc0c8c51a8e7b08e9e1b73177d"
+          client-id="nlw_a4b30ed44135963dd1826e1d51814ab3"
+          api-key="ee1c64c4e3d2f6bb1f9f0f4b9cabdffac1391966456e2e59760194b3478b2bad"
           label="Deel gegevens met je wallet (quick and easy, frontend only)"
           lang="nl"
           @success="handleSuccess"
@@ -21,7 +21,7 @@
       </div>
       <div>
         <WalletConnectButton
-          client-id="nlw_e1a0c593aa29844c8ac202cd96fb048d"
+          client-id="nlw_a4b30ed44135963dd1826e1d51814ab3"
           label="Deel gegevens met je wallet (secure, via backend)"
           lang="nl"
           @success="handleSuccess"
@@ -31,7 +31,7 @@
         <WalletConnectButton
           issuance
           label="Voeg data toe aan je wallet"
-          clientId="nlw_03691ef03dde4bd4f840b8581a7b2d7b"
+          clientId="nlw_7487503f8b815f12b56cfb9c917ee94a"
           helpBaseUrl="https://example.com/"
           lang="nl"
         ></WalletConnectButton>
