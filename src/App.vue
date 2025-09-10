@@ -31,7 +31,7 @@
         <WalletConnectButton
           issuance
           label="Voeg data toe aan je wallet"
-          clientId="nlw_1e2fd1d4c972207a0298fcfededac1c1"
+          clientId="nlw_66d939a49ec11a32856280dfeafe3f9d"
           helpBaseUrl="https://example.com/"
           lang="nl"
         ></WalletConnectButton>
