@@ -55,3 +55,15 @@ const handleSuccess = (attrs) => {
   attributes.value = attrs;
 };
 </script>
+
+<style>
+nl-wallet-button::part(button) {
+  border-radius: 6px;
+  padding: 12px 20px;
+  margin: 4px;
+}
+
+nl-wallet-button::part(button-span) {
+  font-weight: bold;
+}
+</style>
