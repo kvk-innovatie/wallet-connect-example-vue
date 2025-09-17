@@ -6,7 +6,7 @@
           client-id="nlw_358b64b727fff6d0b03b7b29edb7da00"
           api-key="78396e965f9698aed80603ab517424bcc8f62b20b2e7e6d0a2ee69f6b962cd25"
           wallet-connect-host="http://localhost:3021"
-          label="Deel gegevens met je wallet (local)"
+          label="Deel gegevens vanuit je wallet (local)"
           @success="handleSuccess"
         />
       </div> -->
@@ -14,7 +14,7 @@
         <WalletConnectButton
           clientId="nlw_76039d745d088b940ad21703374a0cb6"
           apiKey="4edafd47a67584c563d6fc3f4d105d2900062c57352ec3db2dc1c962b57dce2e"
-          label="Deel gegevens met je wallet (quick and easy, frontend only)"
+          label="Deel gegevens vanuit je wallet (quick and easy, frontend only)"
           lang="nl"
           @success="handleSuccess"
         />
@@ -22,7 +22,7 @@
       <div>
         <WalletConnectButton
           clientId="nlw_76039d745d088b940ad21703374a0cb6"
-          label="Deel gegevens met je wallet (secure, via backend)"
+          label="Deel gegevens vanuit je wallet (secure, via backend)"
           lang="nl"
           @success="handleSuccess"
         />
