@@ -12,8 +12,8 @@
       </div> -->
       <div>
         <WalletConnectButton
-          clientId="nlw_76039d745d088b940ad21703374a0cb6"
-          apiKey="4edafd47a67584c563d6fc3f4d105d2900062c57352ec3db2dc1c962b57dce2e"
+          clientId="nlw_4aae3f2b071308f33fa55cb4dd0a4cce"
+          apiKey="59c54f167b8e9c2f900aa3d3d897239d4355d1ad4a733a38cc00ab0e7abaf77b"
           label="Deel gegevens vanuit je wallet (quick and easy, frontend only)"
           lang="nl"
           @success="handleSuccess"
